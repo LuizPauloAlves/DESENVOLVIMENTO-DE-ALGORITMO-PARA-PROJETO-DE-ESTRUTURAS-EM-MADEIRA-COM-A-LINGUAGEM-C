@@ -1,1 +1,2 @@
 # DESENVOLVIMENTO-DE-ALGORITMO-PARA-PROJETO-DE-ESTRUTURAS-EM-MADEIRA-COM-A-LINGUAGEM-C
+O desenvolvimento de um algoritmo com a finalidade de agilizar e auxiliar a prática de construção com estruturas de madeiras. Este algoritmo utiliza parâmetros estabelecidos relacionados com a estrutura do galpão (dimensionamento, geometria, localização, entre outros) e após a execução dos cálculos produz um relatório que enumera os dados necessários para a elaboração da estrutura
